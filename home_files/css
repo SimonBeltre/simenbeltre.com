@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://web.archive.org/web/20230522005815im_/https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 00:58:15 May 22, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:38:33 Jan 31, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.065
+  exclusion.robots.policy: 0.055
+  cdx.remote: 0.09
+  esindex: 0.009
+  LoadShardBlock: 173.852 (6)
+  PetaboxLoader3.datanode: 209.212 (8)
+  load_resource: 305.988 (2)
+  PetaboxLoader3.resolve: 153.405 (2)
+*/

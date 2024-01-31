@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Acme';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://web.archive.org/web/20221116201155im_/https://fonts.gstatic.com/s/acme/v18/RrQfboBx-C5_XxrBbg.woff2) format('woff2');
+}
+
+/*
+     FILE ARCHIVED ON 20:11:55 Nov 16, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:38:33 Jan 31, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.076
+  exclusion.robots.policy: 0.062
+  cdx.remote: 0.115
+  esindex: 0.014
+  LoadShardBlock: 125.657 (6)
+  PetaboxLoader3.datanode: 180.291 (8)
+  load_resource: 157.555
+  PetaboxLoader3.resolve: 34.271
+  loaddict: 75.85
+*/
