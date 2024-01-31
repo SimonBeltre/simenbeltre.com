@@ -3,7 +3,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://web.archive.org/web/20221116201155im_/https://fonts.gstatic.com/s/acme/v18/RrQfboBx-C5_XxrBbg.woff2) format('woff2');
+  src: url(./home_files/fa-solid-900.woff2) format('woff2');
 }
 
 /*
